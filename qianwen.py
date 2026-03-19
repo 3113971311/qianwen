@@ -13,7 +13,7 @@ MULTI_MODAL_MODEL = "qwen3.5-plus"
 
 # 地域配置（北京地域，按需切换）
 dashscope.base_http_api_url = "https://dashscope.aliyuncs.com/api/v1"
-# dashscope.base_http_api_url = "https://dashscope-intl.aliyuncs.com/api/v1"  # 新加坡 （
+# dashscope.base_http_api_url = "https://dashscope-intl.aliyuncs.com/api/v1"  # 新加坡 
 # dashscope.base_http_api_url = "https://dashscope-us.aliyuncs.com/api/v1"    # 弗吉尼亚
 
 # 支持格式
